@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <time.h>
 using namespace std;
 //James Ng CSCI 313 Question 8
 template <class add>
